@@ -1,4 +1,4 @@
-![logo]("(https://github.com/JagnyaNarayanMalla/JagnyaNarayanMalla/blob/main/Jagnya.png")
+![logo]("https://github.com/JagnyaNarayanMalla/JagnyaNarayanMalla/blob/main/Jagnya.png")
 <h1 align="center">Hi 👋, I'm Jagnya Narayan Malla</h1>
 <h3 align="center">A professional frontend web developer from India.</h3>
 
